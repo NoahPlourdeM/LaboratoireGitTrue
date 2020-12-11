@@ -6,8 +6,7 @@ namespace LaboratoireGitTrue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Je suis dans le master");
-            Console.WriteLine("Un autre message");
+            Console.WriteLine("Je suis dans une branche");
         }
     }
 }
